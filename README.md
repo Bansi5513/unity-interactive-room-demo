@@ -25,7 +25,7 @@ A Unity room scene with a first person flying camera, a rotating ceiling fan, an
 - `Packages/manifest.json`: Unity packages used by the project
 
 ## Built With
-Unity [your version], C#
+Unity 2022.3 LTS, C#
 
 ## Note
 This repository contains the scripts and a demo video. The full Unity project is not included because of file size limits.
